@@ -1,3 +1,3 @@
 # ACCC
-AcCepted Code Collection including
+**A**c**C**epted **C**ode **C**ollection including :
 - HDOJ
