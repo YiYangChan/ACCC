@@ -1,3 +1,4 @@
-# ACCC
+## ACCC
 **A**c**C**epted **C**ode **C**ollection including :
-- HDOJ
+- HDOJ : http://acm.hdu.edu.cn/
+- POJ : http://poj.org/
