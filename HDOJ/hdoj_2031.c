@@ -1,20 +1,20 @@
 /*
-½øÖÆ×ª»»
+è¿›åˆ¶è½¬æ¢
 
 Time Limit: 2000/1000 MS (Java/Others)    Memory Limit: 65536/32768 K (Java/Others)
 Total Submission(s): 48948    Accepted Submission(s): 26877
 
 
 Problem Description
-ÊäÈëÒ»¸öÊ®½øÖÆÊýN£¬½«Ëü×ª»»³ÉR½øÖÆÊýÊä³ö¡£
+è¾“å…¥ä¸€ä¸ªåè¿›åˆ¶æ•°Nï¼Œå°†å®ƒè½¬æ¢æˆRè¿›åˆ¶æ•°è¾“å‡ºã€‚
 
 
 Input
-ÊäÈëÊý¾Ý°üº¬¶à¸ö²âÊÔÊµÀý£¬Ã¿¸ö²âÊÔÊµÀý°üº¬Á½¸öÕûÊýN(32Î»ÕûÊý)ºÍR£¨2<=R<=16, R<>10£©¡£
+è¾“å…¥æ•°æ®åŒ…å«å¤šä¸ªæµ‹è¯•å®žä¾‹ï¼Œæ¯ä¸ªæµ‹è¯•å®žä¾‹åŒ…å«ä¸¤ä¸ªæ•´æ•°N(32ä½æ•´æ•°)å’ŒRï¼ˆ2<=R<=16, R<>10ï¼‰ã€‚
 
 
 Output
-ÎªÃ¿¸ö²âÊÔÊµÀýÊä³ö×ª»»ºóµÄÊý£¬Ã¿¸öÊä³öÕ¼Ò»ÐÐ¡£Èç¹ûR´óÓÚ10£¬Ôò¶ÔÓ¦µÄÊý×Ö¹æÔò²Î¿¼16½øÖÆ£¨±ÈÈç£¬10ÓÃA±íÊ¾£¬µÈµÈ£©¡£
+ä¸ºæ¯ä¸ªæµ‹è¯•å®žä¾‹è¾“å‡ºè½¬æ¢åŽçš„æ•°ï¼Œæ¯ä¸ªè¾“å‡ºå ä¸€è¡Œã€‚å¦‚æžœRå¤§äºŽ10ï¼Œåˆ™å¯¹åº”çš„æ•°å­—è§„åˆ™å‚è€ƒ16è¿›åˆ¶ï¼ˆæ¯”å¦‚ï¼Œ10ç”¨Aè¡¨ç¤ºï¼Œç­‰ç­‰ï¼‰ã€‚
 
 
 Sample Input
