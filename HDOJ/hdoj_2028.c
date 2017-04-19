@@ -6,15 +6,15 @@ Total Submission(s): 59847    Accepted Submission(s): 24853
 
 
 Problem Description
-Çón¸öÊýµÄ×îÐ¡¹«±¶Êý¡£
+æ±‚nä¸ªæ•°çš„æœ€å°å…¬å€æ•°ã€‚
 
 
 Input
-ÊäÈë°üº¬¶à¸ö²âÊÔÊµÀý£¬Ã¿¸ö²âÊÔÊµÀýµÄ¿ªÊ¼ÊÇÒ»¸öÕýÕûÊýn£¬È»ºóÊÇn¸öÕýÕûÊý¡£
+è¾“å…¥åŒ…å«å¤šä¸ªæµ‹è¯•å®žä¾‹ï¼Œæ¯ä¸ªæµ‹è¯•å®žä¾‹çš„å¼€å§‹æ˜¯ä¸€ä¸ªæ­£æ•´æ•°nï¼Œç„¶åŽæ˜¯nä¸ªæ­£æ•´æ•°ã€‚
 
 
 Output
-ÎªÃ¿×é²âÊÔÊý¾ÝÊä³öËüÃÇµÄ×îÐ¡¹«±¶Êý£¬Ã¿¸ö²âÊÔÊµÀýµÄÊä³öÕ¼Ò»ÐÐ¡£Äã¿ÉÒÔ¼ÙÉè×îºóµÄÊä³öÊÇÒ»¸ö32Î»µÄÕûÊý¡£
+ä¸ºæ¯ç»„æµ‹è¯•æ•°æ®è¾“å‡ºå®ƒä»¬çš„æœ€å°å…¬å€æ•°ï¼Œæ¯ä¸ªæµ‹è¯•å®žä¾‹çš„è¾“å‡ºå ä¸€è¡Œã€‚ä½ å¯ä»¥å‡è®¾æœ€åŽçš„è¾“å‡ºæ˜¯ä¸€ä¸ª32ä½çš„æ•´æ•°ã€‚
 
 
 Sample Input
