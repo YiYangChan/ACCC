@@ -6,15 +6,15 @@ Total Submission(s): 40803    Accepted Submission(s): 24797
 
 
 Problem Description
-¡°»ØÎÄ´®¡±ÊÇÒ»¸öÕý¶ÁºÍ·´¶Á¶¼Ò»ÑùµÄ×Ö·û´®£¬±ÈÈç¡°level¡±»òÕß¡°noon¡±µÈµÈ¾ÍÊÇ»ØÎÄ´®¡£ÇëÐ´Ò»¸ö³ÌÐòÅÐ¶Ï¶ÁÈëµÄ×Ö·û´®ÊÇ·ñÊÇ¡°»ØÎÄ¡±¡£
+â€œå›žæ–‡ä¸²â€æ˜¯ä¸€ä¸ªæ­£è¯»å’Œåè¯»éƒ½ä¸€æ ·çš„å­—ç¬¦ä¸²ï¼Œæ¯”å¦‚â€œlevelâ€æˆ–è€…â€œnoonâ€ç­‰ç­‰å°±æ˜¯å›žæ–‡ä¸²ã€‚è¯·å†™ä¸€ä¸ªç¨‹åºåˆ¤æ–­è¯»å…¥çš„å­—ç¬¦ä¸²æ˜¯å¦æ˜¯â€œå›žæ–‡â€ã€‚
 
 
 Input
-ÊäÈë°üº¬¶à¸ö²âÊÔÊµÀý£¬ÊäÈëÊý¾ÝµÄµÚÒ»ÐÐÊÇÒ»¸öÕýÕûÊýn,±íÊ¾²âÊÔÊµÀýµÄ¸öÊý£¬ºóÃæ½ô¸ú×ÅÊÇn¸ö×Ö·û´®¡£
+è¾“å…¥åŒ…å«å¤šä¸ªæµ‹è¯•å®žä¾‹ï¼Œè¾“å…¥æ•°æ®çš„ç¬¬ä¸€è¡Œæ˜¯ä¸€ä¸ªæ­£æ•´æ•°n,è¡¨ç¤ºæµ‹è¯•å®žä¾‹çš„ä¸ªæ•°ï¼ŒåŽé¢ç´§è·Ÿç€æ˜¯nä¸ªå­—ç¬¦ä¸²ã€‚
 
 
 Output
-Èç¹ûÒ»¸ö×Ö·û´®ÊÇ»ØÎÄ´®£¬ÔòÊä³ö"yes",·ñÔòÊä³ö"no".
+å¦‚æžœä¸€ä¸ªå­—ç¬¦ä¸²æ˜¯å›žæ–‡ä¸²ï¼Œåˆ™è¾“å‡º"yes",å¦åˆ™è¾“å‡º"no".
 
 
 Sample Input
